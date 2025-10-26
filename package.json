@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Professional Portfolio Website built with React",
-  "author": "John Doe <john.doe@email.com>",
+  "author": "Chaiyapop Rodhuab <s6503051624092@kmutnb.email.ac.th>",
   "keywords": [
     "react",
     "portfolio",
@@ -11,7 +11,7 @@
     "nodejs",
     "fullstack"
   ],
-  "homepage": "https://johndoe-portfolio.vercel.app",
+  "homepage": "https://my-portfolio-vercel-iota.vercel.app/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
